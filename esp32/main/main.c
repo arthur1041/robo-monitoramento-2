@@ -13,7 +13,7 @@
 #define WIFI_SSID      "NOME_DA_REDE"
 #define WIFI_PASS      "SENHA_DA_REDE"
 
-#define WS_SERVER_URI "ws://192.168.0.107:8080"
+#define WS_SERVER_URI "ws://IP_MAQUINA:8080"
 #define DEVICE_ID "robot1"
 
 static const char *TAG = "robot_ws";
