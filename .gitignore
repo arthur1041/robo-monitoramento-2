@@ -1,3 +1,3 @@
-esp32/esp-idf-app/build
-esp32/esp-idf-app/managed_components 
+esp32/build
+esp32/managed_components 
 server/node_modules
